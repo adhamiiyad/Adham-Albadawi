@@ -137,4 +137,3 @@ A web application for efficient team collaboration and task management, built wi
 
 - **Email:** adhamiiyad@outlook.com
 - **Phone:** +972592632002
-- **LinkedIn:** [Your LinkedIn Profile](#) 
